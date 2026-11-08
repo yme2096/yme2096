@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mahasamudram Jayachandra Reddy — Full-Stack Developer</title>
+  <desc id="desc">A clean navy and blue developer banner featuring Java, Spring Boot, React, and AI integration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142b4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9ab4d4" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="40" r="190" fill="#38bdf8" opacity=".08"/>
+  <circle cx="1110" cy="300" r="160" fill="#818cf8" opacity=".09"/>
+  <path d="M0 300 C260 250 360 390 640 310 S1010 220 1200 280" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="72" y="66" width="7" height="224" rx="3.5" fill="url(#accent)"/>
+  <text x="112" y="118" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+  <text x="108" y="180" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">MAHASAMUDRAM</text>
+  <text x="108" y="230" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">JAYACHANDRA REDDY</text>
+  <text x="112" y="278" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Computer Science Student  ·  Full-Stack Developer</text>
+  <g transform="translate(880 118)">
+    <rect width="230" height="48" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#93c5fd" stroke-opacity=".35"/>
+    <text x="115" y="31" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">JAVA  ·  SPRING BOOT</text>
+    <rect y="62" width="230" height="48" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#93c5fd" stroke-opacity=".35"/>
+    <text x="115" y="93" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">REACT  ·  AI</text>
+  </g>
+</svg>
