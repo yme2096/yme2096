@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/yme2096/yme2096/main/assets/profile-banner.svg" alt="Mahasamudram Jayachandra Reddy — Full-Stack Developer" width="100%" />
+
 # MAHASAMUDRAM JAYACHANDRA REDDY
 
 ### Computer Science & Engineering Student · Full-Stack Developer
@@ -188,6 +190,19 @@ B.Tech · Computer Science and Engineering
 ---
 
 <div align="center">
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yme2096&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yme2096&layout=compact&hide_border=true&theme=default" alt="Most used languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yme2096&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+---
 
 ### Thanks for visiting!
 
